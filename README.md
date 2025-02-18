@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **melonSorbet/melonSorbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+profile picture: [Sardine](https://sketchfab.com/3d-models/sardine-22d8208a61ea4ae0baaf83aa3831550e) by [Lobed Homunculus] on Sketchfab.
