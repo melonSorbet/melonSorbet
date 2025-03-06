@@ -1,14 +1,10 @@
 **MelonSorbet**
 
-I'm a student at Technische Universität Berlin, passionate about software development and system programming.
-
-Hi there! 👋
-
 I'm a student at Technische Universität Berlin, passionate about:
 
 * 🦀 Rust & C
 * 💾 Systems programming
-* 🏗️ Nix & NixOS
+* 🏗️ Nix & Docker
 * 🐧 Linux, especially Debian & NixOS
 * 📽️ GStreamer & media streaming
 
